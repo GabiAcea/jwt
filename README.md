@@ -1,4 +1,7 @@
-## Nodejs in 10 minutes
+## Nodejs JWT in 10 minutes
+
+Full tutorial:
+https://www.codementor.io/olatundegaruba/5-steps-to-authenticating-node-js-with-jwt-7ahb5dmyr
 
 clone the project
 
@@ -7,6 +10,4 @@ clone the project
 
 ### Run
 
-* npm run start
-
-:)
+* node server.js
